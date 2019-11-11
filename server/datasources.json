@@ -1,0 +1,12 @@
+{
+  "chowsdb": {
+    "host": "newdb.cyntafp5v2g0.ap-south-1.rds.amazonaws.com",
+    "port": 3306,
+    "database": "chowsdb",
+    "username": "root",
+    "password": "password",
+    "name": "chowsdb",
+    "connector": "mysql",
+    "timeout": 60000
+  }
+}
